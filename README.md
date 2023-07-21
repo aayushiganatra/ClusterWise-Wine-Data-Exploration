@@ -1,9 +1,4 @@
-# Wine Dataset Clustering Analysis
-
-## CSCI-657: Introduction to Data Mining
-This course introduces the concepts, techniques, and applications of data mining. Topics include data preprocessing, clustering, data warehouse and Online Analytical Processing (OLAP) technology, cluster and social network analysis, data classification and prediction, multimedia and web mining.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ClusterWise: Wine Data Exploration
 
 ## Wine Dataset Clustering
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1MnnLm4nhtdIgZUqm3-5efOiyyB14pv5e/view?usp=sharing) and [Dataset Source](https://archive.ics.uci.edu/dataset/109/wine)
